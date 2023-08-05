@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lipelopesoliveira
 - I'm a PhD student in Chemistry at Federal University of Rio de Janeiro
-- I'm a intern at IBM Research Brazil
 - 👀 I’m interested in computational chemistry and its application on the development of new nanomaterials.
 - 📫 To reach me just send an e-mail to felipe.lopes@nano.ufrj.br
 - ✨ Take a look on my personal blog: https://tonanoandbeyondblog.wordpress.com/
